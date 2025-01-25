@@ -39,7 +39,7 @@ onMounted(() => {
     class="fixed inset-0 flex items-center justify-center bg-black/90 z-50"
   >
     <div
-      class="p-3 animate-spin drop-shadow-2xl bg-gradient-to-bl from-pink-400 via-purple-400 to-indigo-600 md:w-[50px] md:h-[50px] h-[40px] w-[40px] aspect-square rounded-full"
+      class="p-3 animate-spin drop-shadow-2xl bg-gradient-to-bl from-blue-500 via-purple-300 to-purple-700 md:w-[50px] md:h-[50px] h-[40px] w-[40px] aspect-square rounded-full"
     >
       <div
         class="rounded-full h-full w-full bg-slate-100 dark:bg-zinc-900 background-blur-md"
